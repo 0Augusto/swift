@@ -1,0 +1,19 @@
+Alternativa para o HashCalc, utilizar a ferramenta nativa do MacBook Air M1 2020, "shasum" como utilizar: shasum -a 256 nome-do-arquivo ou shasum -a 256 meu-arquivo.txt >> assim o irá calcular o hash e mostrará no terminal.
+
+Existem várias ferramentas OSINT (Open Source Intelligence) disponíveis para uso no MacBook Air M1 2020. Algumas delas são compatíveis com o macOS nativamente, enquanto outras exigem a instalação de dependências adicionais. Aqui estão algumas ferramentas populares que você pode considerar:
+
+1. Maltego: Uma poderosa ferramenta de análise de dados que permite visualizar e correlacionar informações coletadas de várias fontes. O Maltego tem uma versão nativa para macOS.
+
+2. TheHarvester: Uma ferramenta para coleta de informações em diversos mecanismos de busca, como e-mails, subdomínios, nomes de usuários e muito mais. É uma ferramenta de linha de comando compatível com o macOS e pode ser instalada usando o Homebrew (gerenciador de pacotes do macOS).
+
+3. SpiderFoot: Uma plataforma de automação OSINT que permite coletar informações de diversas fontes, incluindo redes sociais, serviços de email, DNS e muito mais. O SpiderFoot é compatível com o macOS e pode ser executado em um navegador da web.
+
+4. Recon-ng: Um framework de coleta de informações que oferece recursos poderosos para explorar e coletar dados de diversas fontes. O Recon-ng é uma ferramenta de linha de comando que pode ser instalada no macOS usando o pip (gerenciador de pacotes Python).
+
+5. Shodan: Um mecanismo de busca especializado em dispositivos conectados à Internet. Embora o Shodan seja baseado na web, ele pode ser acessado diretamente em um navegador no seu MacBook Air M1.
+
+6. Maltego ChlorineCE: Uma versão de código aberto do Maltego que permite a análise de informações usando grafos. O Maltego ChlorineCE é compatível com o macOS e pode ser instalado a partir do código-fonte disponível no GitHub.
+
+Lembre-se de que algumas ferramentas podem exigir a instalação de dependências adicionais, como o Python, o Homebrew ou outras bibliotecas. Certifique-se de seguir as instruções de instalação fornecidas por cada ferramenta para garantir que você tenha tudo configurado corretamente no seu MacBook Air M1.
+
+
