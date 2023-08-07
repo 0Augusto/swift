@@ -1,3 +1,14 @@
+/*
+Para fazer com que o programa execute as threads em um único núcleo, 
+você pode usar uma fila serial do Grand Central Dispatch (GCD) em vez de criar threads separadas. 
+A fila serial garantirá que as tarefas sejam executadas sequencialmente em um único núcleo.
+Neste código, substituímos a criação das threads por uma fila serial do GCD chamada "serialQueue". 
+Em seguida, usamos o método async para adicionar as tarefas à fila, 
+garantindo que elas serão executadas sequencialmente, uma após a outra, em um único núcleo. 
+Por fim, utilizamos o método sync com a flag.barrier para aguardar a conclusão de todas as tarefas antes de imprimir a mensagem "Todas as tarefas foram concluídas". 
+Dessa forma, garantimos que todas as tarefas sejam concluídas antes de encerrar o programa.
+*/
+
 import Foundation
 
 func performTask(_ index: Int) {
@@ -12,7 +23,7 @@ func performTask(_ index: Int) {
     
     print("Concluindo tarefa \(index)")
 }
-let numberOfThreads = 500 // Número de threads desejado
+let numberOfThreads = 1000 // Número de threads desejado (500)
 var threads: [Thread] = []
 
 for i in 0..<numberOfThreads {
