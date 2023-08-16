@@ -1,0 +1,86 @@
+17.58s user 
+0.04s system 
+763% cpu 
+2.308 total
+
+Iniciando tarefa 0
+Iniciando tarefa 7
+Iniciando tarefa 5
+Iniciando tarefa 9
+Tarefa 9: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 5: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 7: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 0: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Iniciando tarefa 6
+Tarefa 6: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 6: Executando passo 1
+Tarefa 9: Executando passo 1
+Iniciando tarefa 2
+Tarefa 0: Executando passo 1
+Tarefa 5: Executando passo 1
+Tarefa 2: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 7: Executando passo 1
+Tarefa 2: Executando passo 1
+Iniciando tarefa 4
+Tarefa 4: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 4: Executando passo 1
+Iniciando tarefa 1
+Tarefa 1: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 1: Executando passo 1
+Iniciando tarefa 8
+Tarefa 8: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 8: Executando passo 1
+Iniciando tarefa 3
+Tarefa 3: Sequência de Fibonacci: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+Tarefa 3: Executando passo 1
+Tarefa 3: Executando passo 2
+Tarefa 0: Executando passo 2
+Tarefa 6: Executando passo 2
+Tarefa 5: Executando passo 2
+Tarefa 2: Executando passo 2
+Tarefa 9: Executando passo 2
+Tarefa 8: Executando passo 2
+Tarefa 4: Executando passo 2
+Tarefa 1: Executando passo 2
+Tarefa 7: Executando passo 2
+Tarefa 3: Executando passo 3
+Tarefa 6: Executando passo 3
+Tarefa 0: Executando passo 3
+Tarefa 2: Executando passo 3
+Tarefa 9: Executando passo 3
+Tarefa 5: Executando passo 3
+Tarefa 4: Executando passo 3
+Tarefa 1: Executando passo 3
+Tarefa 7: Executando passo 3
+Tarefa 8: Executando passo 3
+Tarefa 3: Executando passo 4
+Tarefa 2: Executando passo 4
+Tarefa 6: Executando passo 4
+Tarefa 5: Executando passo 4
+Tarefa 9: Executando passo 4
+Tarefa 0: Executando passo 4
+Tarefa 1: Executando passo 4
+Tarefa 4: Executando passo 4
+Tarefa 7: Executando passo 4
+Tarefa 8: Executando passo 4
+Tarefa 3: Executando passo 5
+Tarefa 0: Executando passo 5
+Tarefa 4: Executando passo 5
+Tarefa 2: Executando passo 5
+Tarefa 1: Executando passo 5
+Tarefa 6: Executando passo 5
+Tarefa 5: Executando passo 5
+Tarefa 9: Executando passo 5
+Tarefa 8: Executando passo 5
+Tarefa 7: Executando passo 5
+Concluindo tarefa 3
+Concluindo tarefa 0
+Concluindo tarefa 4
+Concluindo tarefa 1
+Concluindo tarefa 2
+Concluindo tarefa 9
+Concluindo tarefa 8
+Concluindo tarefa 6
+Concluindo tarefa 7
+Concluindo tarefa 5
+Todas as tarefas foram concluídas
